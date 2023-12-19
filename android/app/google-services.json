@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542992313677",
+    "project_id": "genuno-app",
+    "storage_bucket": "genuno-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542992313677:android:ac17cbde4b720280b05b04",
+        "android_client_info": {
+          "package_name": "com.example.genuno_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75dophbB2qvDRAgZdt2raBr8kLJyJNHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542992313677:android:4f385c0726b55d58b05b04",
+        "android_client_info": {
+          "package_name": "com.example.genunoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75dophbB2qvDRAgZdt2raBr8kLJyJNHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
